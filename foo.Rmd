@@ -1,0 +1,13 @@
+---
+title: "Github"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{bash}
+echo "I'm Learning to Use Github...Boom"
+```
+
